@@ -1,1 +1,1 @@
-export const getHistory = (state: any) => state.history.history;
+export const getPokemonList = (state: any) => state.pokemon.pokemonList;

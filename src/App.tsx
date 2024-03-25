@@ -1,10 +1,12 @@
-import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import "./styles.scss"
 import HomePage from './pages/home-page';
 
 function App() {
   return (
-    <div>
-      <div><HomePage /></div>
+    <div className="app mx-auto px-3">
+      <HomePage />
     </div>
   );
 }

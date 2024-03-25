@@ -1,0 +1,24 @@
+.list {
+  width: 100%;
+  height: 500px;
+
+  border: 1px solid #000000;
+  border-radius: 20px;
+
+  padding: 20px;
+
+  &__search-input{
+    width: 100%;
+    height: 35px;
+
+    padding-left: 10px;
+
+    border-radius: 10px;
+  }
+
+  &__item-container{
+    width: 100%;
+    min-height: 300px;
+  }
+}
+
