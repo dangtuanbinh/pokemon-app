@@ -1,12 +1,12 @@
-# Weather
+# Pokemon
 
-This project create a responsive app. Using Reactjs, Typescript, RTK Query, Ant-Design for Front-end. and https://openweathermap.org/ for API
+This project create a responsive app. Using Reactjs, Typescript, RTK Query, Ant-Design for Front-end.
 
 ## Getting started
 
 Following below steps help you to run the app locally: 
 
-### `git clone https://github.com/dangtuanbinh/fe-test-ca.git`
+### `https://github.com/dangtuanbinh/pokemon-app.git`
 
 Cloning the repository to your local laptop/workplace.
 
